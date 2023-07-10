@@ -4,7 +4,7 @@
 ## 📝Usage
 .mines (mine count) (seed)
 
-## ⚙️Install all the stuff
+## ⚙️Install
 > Put your discord bot token at config.json\
 > Run the index.js
 
