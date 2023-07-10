@@ -1,7 +1,7 @@
 # growdice-mine-predictor
 ![image](https://media.discordapp.net/attachments/1126981481424752723/1127961997745602630/plfAVu61BE.png?width=364&height=469)
 
-## 📝Features and Usage
+## 📝Usage
 .mines (mine count) (seed)\
 
 ## ⚙️Install all the stuff
